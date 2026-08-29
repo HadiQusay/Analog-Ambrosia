@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\aabde\ETERNAL SUMMER\PPS\stm32_DSP_audio_project\Altium\PCB1.PcbDoc
+Date     : 2026-08-29
+Time     : 2:15:17 PM
+
+WARNING: 2 Net Ties failed verification
+   SMT Small Component SB2-SOLDER_BRIDGE (81.384mm,76.133mm) on Top Layer, SMT Small Component SB2-SOLDER_BRIDGE (81.384mm,76.133mm) on Top Layer, has isolated copper
+   SMT Small Component SB1-SOLDER_BRIDGE (29.307mm,47.75mm) on Top Layer, SMT Small Component SB1-SOLDER_BRIDGE (29.307mm,47.75mm) on Top Layer, has isolated copper
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.187mm) (Max=0.254mm) (Preferred=0.254mm) (InNetClass('50O'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.12mm) (Max=2.5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.07mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.22mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.01mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.01mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

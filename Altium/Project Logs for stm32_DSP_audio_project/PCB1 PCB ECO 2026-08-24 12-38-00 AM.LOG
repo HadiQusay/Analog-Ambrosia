@@ -1,0 +1,3 @@
+Added Component: Designator=J5(2_soldering_pads)
+Added Pin To Net: NetName=Analog_SE_Right_Out Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2

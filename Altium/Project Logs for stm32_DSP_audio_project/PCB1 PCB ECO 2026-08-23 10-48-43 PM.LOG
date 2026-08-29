@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetBT1_1 New Net Name=VBATT
+Change Net Name : Old Net Name=NetC33_2 New Net Name=SW
+Change Net Name : Old Net Name=NetR18_2 New Net Name=nBATDRV
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

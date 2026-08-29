@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Analog_SE_In Pin=C6-2
+Added Pin To Net: NetName=Analog_SE_Right_Out Pin=C6-2
+Added Net: Name=Analog_SE_Right_Out

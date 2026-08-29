@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [stm32_DSP_audio_project.PrjPcb]
+   Generated File[PCB1_Copper_Signal_Top.gbr]
+   Generated File[PCB1_Copper_Signal_1.gbr]
+   Generated File[PCB1_Copper_Signal_2.gbr]
+   Generated File[PCB1_Copper_Signal_Bot.gbr]
+   Generated File[PCB1_Legend_Top.gbr]
+   Generated File[PCB1_Legend_Bot.gbr]
+   Generated File[PCB1_Soldermask_Top.gbr]
+   Generated File[PCB1_Soldermask_Bot.gbr]
+   Generated File[PCB1_Paste_Top.gbr]
+   Generated File[PCB1_Paste_Bot.gbr]
+   Generated File[PCB1_Profile.gbr]
+   Generated File[PCB1_NPTH_Drill.gbr]
+   Generated File[PCB1_PTH_Drill.gbr]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 2:16:26 PM On 2026-08-29

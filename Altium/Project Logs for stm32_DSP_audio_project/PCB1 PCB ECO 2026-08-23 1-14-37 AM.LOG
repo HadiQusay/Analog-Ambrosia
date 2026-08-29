@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=D1 Old Footprint=DO-214AA New Footprint=SDXXC.TCT
+Change Component Footprint: Designator=D2 Old Footprint=DO-214AA New Footprint=SDXXC.TCT
+Change Component Footprint: Designator=D3 Old Footprint=DO-214AA New Footprint=SDXXC.TCT
+Change Component Comment : Designator=D1 Old Comment=SM6T15CAY New Comment=SD12C.TCT
+Change Component Comment : Designator=D2 Old Comment=SM6T15CAY New Comment=SD12C.TCT
+Change Component Comment : Designator=D3 Old Comment=SM6T15CAY New Comment=SD12C.TCT
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=4B112697-E3F0-4962-9B25-3B51315FD816 New VaultGUID=4B112697-E3F0-4962-9B25-3B51315FD816 Old ItemGUID=59c03f52-d0cc-400d-a058-ecc95ed7601a New ItemGUID=bda63d92-4b62-47ed-8b94-167a44f6415c Old RevisionGUID=12059ade-0a43-4a65-ada3-f8e956b1247e New RevisionGUID=85579CB3-C9CA-452A-8CD8-F06B9771AAC1
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=4B112697-E3F0-4962-9B25-3B51315FD816 New VaultGUID=4B112697-E3F0-4962-9B25-3B51315FD816 Old ItemGUID=59c03f52-d0cc-400d-a058-ecc95ed7601a New ItemGUID=bda63d92-4b62-47ed-8b94-167a44f6415c Old RevisionGUID=12059ade-0a43-4a65-ada3-f8e956b1247e New RevisionGUID=85579CB3-C9CA-452A-8CD8-F06B9771AAC1
+Change Managed Component Library Link : Designator=D3 Old VaultGUID=4B112697-E3F0-4962-9B25-3B51315FD816 New VaultGUID=4B112697-E3F0-4962-9B25-3B51315FD816 Old ItemGUID=59c03f52-d0cc-400d-a058-ecc95ed7601a New ItemGUID=bda63d92-4b62-47ed-8b94-167a44f6415c Old RevisionGUID=12059ade-0a43-4a65-ada3-f8e956b1247e New RevisionGUID=85579CB3-C9CA-452A-8CD8-F06B9771AAC1
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DO-214AA"; UniqueID = "\VJEITGIK" ("\VJEITGIK")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Inverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DO-214AA"; UniqueID = "\UDKOYZHM" ("\UDKOYZHM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Inverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DO-214AA"; UniqueID = "\WGRKWCZC" ("\WGRKWCZC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Inverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+3V3 Pin=R25-2
+Removed Pin From Net: NetName=+3V3 Pin=R26-2
+Added Component: Designator=TP13(Testpoint 1mm)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP27(Testpoint 1mm)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC38_1 Pin=R25-2
+Added Pin To Net: NetName=NetC38_1 Pin=R26-2
+Added Pin To Net: NetName=MCU_I2C_SCL Pin=TP13-1
+Added Pin To Net: NetName=MCU_I2C_SDA Pin=TP27-1
+Change Net Name : Old Net Name=NetC38_1 New Net Name=VDDD
+Added Rule: Name=Schematic Supply Nets_2
